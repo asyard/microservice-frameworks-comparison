@@ -24,6 +24,7 @@
         <module>spring-boot</module>
         <module>quarkus-classic</module>
         <module>micronaut-app</module>
+        <module>microprofile</module>
     </modules>
 
     <dependencyManagement>

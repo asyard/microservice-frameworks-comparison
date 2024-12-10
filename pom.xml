@@ -16,7 +16,7 @@
         <spring.boot.version>3.1.2</spring.boot.version>
         <quarkus.version>3.2.3.Final</quarkus.version>
         <micronaut.version>4.0.4</micronaut.version>
-        <lombok.version>1.18.28</lombok.version>
+        <lombok.version>1.18.36</lombok.version>
         <mapstruct.version>1.5.2.Final</mapstruct.version>
     </properties>
 
